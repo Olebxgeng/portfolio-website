@@ -14,7 +14,7 @@ const Contact = () => {
     <div className='flex flex-col text-white text-center md:w-78 mr-auto ml-auto'>
         <p className='w-1/2 mr-auto ml-auto'>I am currently looking for new opportunities, my inbox is always open. 
           Whether you have a question or just want to say hi, you can contact me on any of the platforms below. 
-          I'll try my best to get back to you.</p>
+          I will try my best to get back to you.</p>
          <div className="flex flex-row gap-5 justify-center mt-6 mb-10">
           <Link href="https://github.com/Olebxgeng"><Image className='w-10 h-5' src={GitHubIcon}  alt='Github Icon Link' /></Link>
           <Link href="https://www.linkedin.com/in/olebogengsebogodi/"><Image className='w-10 h-5' src={LinkedInIcon} alt='LinkedIn Icon Link' /></Link>
