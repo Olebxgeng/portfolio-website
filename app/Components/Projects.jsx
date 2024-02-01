@@ -10,7 +10,7 @@ const projectsData = [
         description: "Spotity clone music app",
         image: "/images/projects/Lyriks.png",
         gitUrl: "https://github.com/Olebxgeng/lyriks",
-        previewUrl: "#"
+        previewUrl: "https://poetic-kelpie-45d390.netlify.app/top-charts"
     },
     {
         id: 2,
