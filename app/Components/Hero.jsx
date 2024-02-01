@@ -35,7 +35,7 @@ const Hero = () => {
                     />
                 </h1>
                 <p className='text-[#ADB7BE] text-base sm:text-lg lg:text-xl mb-6'>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Soluta libero amet in sequi veritatis provident.
+                Front-End Developer with a love of building beautiful solutions & seeing ideas come to life.
                 </p>
                 <div>
                     <a href="/OlebogengSebogodiCV.pdf" download="OlebogengSebogodiCV" target="_blank">
