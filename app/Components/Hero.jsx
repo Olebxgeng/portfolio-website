@@ -50,8 +50,8 @@ const Hero = () => {
                     src="/images/57D8D904-100F-4704-B3A7-4D1A255D8942.png"
                     alt='Olebogeng'
                     className='absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 rounded-full  w-auto h-auto'
-                    width={270}
-                    height={270}
+                    width={250}
+                    height={250}
                     priority
                 />
                 </div>
