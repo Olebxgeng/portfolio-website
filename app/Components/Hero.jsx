@@ -45,7 +45,7 @@ const Hero = () => {
                 </div>
             </div>
             <div className="col-span-5 place-self-center mt-4 lg:mt-0 max-w-screen-sm:mb-12 ">
-                <div className='rounded-full bg-[#000000] w-[250px] h-[250px] lg:h-[400px] lg:w-[400px] relative lg:mt-15 lg:mb-32 py-12'>
+                <div className='rounded-full bg-[#171217] w-[250px] h-[250px] lg:h-[400px] lg:w-[400px] relative lg:mt-15 lg:mb-32 py-12'>
                     <Image 
                     src="/images/57D8D904-100F-4704-B3A7-4D1A255D8942.png"
                     alt='Olebogeng'
