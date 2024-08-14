@@ -24,8 +24,6 @@ const Hero = () => {
                         1000, // wait 1s before replacing "Mice" with "Hamsters"
                         'a Web Developer',
                         1000,
-                        'a Mobile Developer',
-                        1000,
                         'a UX/UI Designer',
                         1000
                     ]}
