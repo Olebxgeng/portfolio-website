@@ -47,7 +47,7 @@ const Hero = () => {
             <div className="col-span-5 place-self-center mt-4 lg:mt-0 max-w-screen-sm:mb-12 ">
                 <div className='rounded-full bg-[#181818] w-[250px] h-[250px] lg:h-[400px] lg:w-[400px] relative lg:mt-15 lg:mb-32 py-12'>
                     <Image 
-                    src="/images/LeboImg.png"
+                    src="/images/57D8D904-100F-4704-B3A7-4D1A255D8942.png"
                     alt='Olebogeng'
                     className='absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 rounded-full  w-auto h-auto'
                     width={270}
